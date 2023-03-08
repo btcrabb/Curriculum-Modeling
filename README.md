@@ -1,6 +1,7 @@
 ## Learning From Machine Learning: Evaluating How Contextual Interference Impacts the Learning of a Radiology Task in Machines and Radiologists
 
 Author: Brendan Crabb
+
 Email: Brendan.crabb@hsc.utah.edu
 
 #### Objective:
