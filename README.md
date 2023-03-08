@@ -4,7 +4,7 @@ Author: Brendan Crabb
 
 Email: Brendan.crabb@hsc.utah.edu
 
-#### Objective:
+### Objective:
 Utilizing the theory of contextual interference, this study sought to assess the impact of interleaved (non-blocked) training schedules on the learning of mass detection on mammograms and nodule detection on chest radiographs by radiology residents and a convolutional neural network (CNN).
 
 
